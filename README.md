@@ -15,3 +15,4 @@ Expense Tracker is a web application built with Django, Python, MySQL, HTML, CSS
 
 1. Clone the repository:
 
+ - https://github.com/Priyansh2902/Expense_Tracking_machine.git
