@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y default-libmysqlclient-dev gcc \
 
 COPY requirements.txt /app/
 RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+RUN pip install -r requirement.txt
 
 # Copy project code
 COPY . /app/
